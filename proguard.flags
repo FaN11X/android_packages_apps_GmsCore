@@ -6,6 +6,8 @@
 -libraryjar ../unifiednlp-compat/build/classes/java/main
 -dontwarn java.awt.**
 -dontwarn javax.annotation.**
+-dontwarn kotlin.internal.jdk8.**
+-dontwarn java.lang.invoke.**
 
 # External libs
 -dontwarn okio.**
