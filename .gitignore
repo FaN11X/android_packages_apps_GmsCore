@@ -7,3 +7,7 @@ build/
 user.gradle
 local.properties
 .directory
+/play-services-core/debug/output.json
+/play-services-core/debug/play-services-core-debug.apk
+/play-services-core/release/output.json
+/play-services-core/release/play-services-core-release.apk
